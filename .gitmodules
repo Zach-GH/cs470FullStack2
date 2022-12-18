@@ -4,3 +4,6 @@
 [submodule "learn-angular-from-scratch-step-by-step"]
 	path = learn-angular-from-scratch-step-by-step
 	url = git@github.com:Zach-GH/learn-angular-from-scratch-step-by-step.git
+[submodule "loopback-getting-started"]
+	path = loopback-getting-started
+	url = git@github.com:Zach-GH/loopback-getting-started.git
