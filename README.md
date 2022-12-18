@@ -20,15 +20,15 @@ Planning for Growth: Synthesize the knowledge you have gathered about cloud serv
 
 - Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future. Consider the following:
 
-  - How would you handle scale and error handling?
+      - How would you handle scale and error handling?
   
 Handling scale and error handling seems to be best done with AWS. I say this because the solution that is offered of an amporphous state of scaling really seems to be the optimal way to handle the issue. Giving an allowance to the actual needed amount of attention each application and server needs based off of demand is the most cost effective, and logical way to handle the ongoing problem, which in the long run reduces cost, and keeps server health high. Error handling on the other hand needs to be done on a case by case basis unless it is able to be automated. If we are able to take an error, and have some type of pipeline or AI check for the possible reason that an error might happen, it could be easy to allow this to potentially be handled by a web service such as AWS. In the case that this AI/pipeline could not figure out the solution, it is pertinent to have knowledgeable and educated engineers on call to fix these problems to assure that customers are able to have the best experience possible, so we can not only keep everybody safe, but keep our software and hardware as healthy as can be straying away from any potential possibility of misconfiguration.
 
-  - How would you predict the cost?
+    - How would you predict the cost?
 
 Predicting cost is not something that is easy. Again, I do like the idea of being charged only for what you use, but if you were to sit down with a customer, unless they had an expected rate of use, how on earth are you able to give a finite number? This is a problem only potentially with smaller companies, as they may not always be able to deal out the amount of money an uptick in visitations may bring. On the other hand, a big company would have no problem dealing with this cost, so I think that a baseline needs to be set in certain instances to assure that companies can get a hard number instead of a potentially volatile one. I believe that the adaptability that AWS offers is really great for both little companies and bigger companies, as deals are always able to be made, and there are an enumerable amount of options available to customize it towards the individual.
 
-  - What is more cost predictable, containers or serverless?
+    - What is more cost predictable, containers or serverless?
 
 Containers are always cheaper due to the predictability of use. When using serverless, you are giving control to the vendor which makes it overall more expensive. That being said, it is hard to really pinpoint the predictability here because if your containers are not managed properly, then you maybe paying for resources that you are not using. I think that this can be a tossup, and particularly matters dependent on the type of customers that needs the solution for their business.
 
