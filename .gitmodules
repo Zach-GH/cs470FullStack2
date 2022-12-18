@@ -1,0 +1,6 @@
+[submodule "learn-how-to-build-a-mean-stack-application"]
+	path = learn-how-to-build-a-mean-stack-application
+	url = git@github.com:Zach-GH/learn-how-to-build-a-mean-stack-application.git
+[submodule "learn-angular-from-scratch-step-by-step"]
+	path = learn-angular-from-scratch-step-by-step
+	url = git@github.com:Zach-GH/learn-angular-from-scratch-step-by-step.git
